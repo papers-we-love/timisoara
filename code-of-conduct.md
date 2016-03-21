@@ -14,7 +14,7 @@ Need help?
 If you are experiencing harassment on or have concerns about content within the [GitHub repo](https://github.com/papers-we-love/papers-we-love), the **#paperswelove** IRC channel on Freenode, the **paperswelove.slack.com** Slack, or [PapersWeLove.org](http://paperswelove.org) please contact:
 
 - **Emanuel Danci** [danci.emanuel@gmail.com](mailto:danci.emanuel@gmail.com)
-- **Vlad Temian** [org@email.com](mailto:vladtemian@gmail.com)
+- **Vlad Temian** [vladtemian@gmail.com](mailto:vladtemian@gmail.com)
 - **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
 The organizers of Papers We Love Timisoara meet-up/event are available to help you with any issues or concerns at live events.
